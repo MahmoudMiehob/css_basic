@@ -1,0 +1,15 @@
+/* selector {
+
+    property : value ;
+
+} */
+
+p{
+    color: rgb(228, 94, 94);
+    background-color: blue;
+    font-size: 40px;
+}
+
+.special{
+    color: green;
+}
