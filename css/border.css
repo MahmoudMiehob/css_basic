@@ -1,0 +1,42 @@
+div {
+    background-color: cadetblue;
+
+    /*width*/
+    border-width: 2px;
+
+    /*color*/
+    border-color: red green;
+
+    /*style*/
+    border-style: solid;
+
+
+    /*top*/
+    border-top: 2px solid red;
+
+
+    /*bottom*/
+    border-bottom: 2px solid red;
+
+
+    /*left*/
+    border-left: 2px solid red;
+
+
+    /*right*/
+    border-right: 2px solid red;
+
+
+
+    /*All*/
+    border: 1px 1px 1px 1px solid red;
+
+
+    /*top right*/
+    border: 1px 2x solid red;
+
+
+
+    /*All*/
+    border: 1px solid red;
+}
