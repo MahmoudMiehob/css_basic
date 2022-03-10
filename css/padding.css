@@ -1,0 +1,21 @@
+div{
+    background-color: cadetblue;
+    /*Top right bottom left */
+    /*10 10 10 10 */
+    padding: 10px;
+
+    /*Top right bottom left */
+    /*10 20 10 20 */
+    padding: 10px 20px;
+
+    /*Top right bottom left */
+    /*10 20 10 20 */
+    padding: 10px 20px 1px;
+
+
+    
+    padding-left: 10px;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right:10px ;
+}

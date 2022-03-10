@@ -1,0 +1,33 @@
+div{
+    background-color: cornflowerblue;
+    padding: 10px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+    /*Top right bottom left*/
+    /*40 20 20 20*/
+    /* margin: 40px 20px 20px 20px ; */
+
+
+    /*Top right bottom left*/
+    /*40 20 40 20*/
+    /* margin: 40px 20px  ; */
+
+
+
+    /*Top right bottom left*/
+    /*20 20 20 20*/
+    /* margin: 20px ; */
+
+
+
+    /*Top right bottom left*/
+    /*40 20 20 20*/
+    /* margin: 40px 20px 20px ; */
+
+
+    
+}

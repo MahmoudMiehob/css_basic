@@ -1,0 +1,17 @@
+div{
+
+    width: 150px;
+    height: 150px;
+    background-color: blanchedalmond;
+    margin-left: 200px;
+    border-radius: 10px;
+    overflow: auto;
+
+    
+   /*overflow: visible;
+    overflow: hidden; */
+
+    /* overflow-x: auto;
+    overflow-y: auto; */
+
+}
