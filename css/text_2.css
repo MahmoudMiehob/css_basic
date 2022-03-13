@@ -1,0 +1,12 @@
+/*
+-- text-align
+-- direction
+-- vertical alignment
+*/
+
+
+div{
+    color: red;
+    /* text-align: center; */
+    direction: rtl;
+}

@@ -1,0 +1,25 @@
+/*
+float
+clear
+*/
+
+
+.left{
+    padding: 10px;
+    background-color: blanchedalmond;
+    color: blue;
+    float: left;
+}
+
+.right{
+    padding: 10px;
+    background-color: blanchedalmond;
+    color: blue;
+    float: right;
+}
+
+.back{
+    background-color: chocolate;
+    margin: 0px;
+    padding: 0px;
+}
