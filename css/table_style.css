@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    border: 1px solid;
+    background-color: blue;
+}
+
+
+table td{
+    padding: 15px;
+    background-color: #eee;
+    border: 1px solid red;
+    text-align: center;
+}
+
+table thead td{
+    background-color:chocolate;
+}
