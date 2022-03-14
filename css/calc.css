@@ -1,0 +1,19 @@
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #eee;
+    float: left;
+    width: calc((100% - 60px) / 5);
+    margin-left: 10px;
+}
+
+/*
+عدد الفراغات = 6
+المسافة الجانبية = 10
+
+10*6= 60
+
+(100% - 60px) / 5
+
+*/
