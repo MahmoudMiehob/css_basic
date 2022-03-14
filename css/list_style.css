@@ -1,0 +1,5 @@
+ul{
+    list-style: image();
+    list-style: linear-gradient();
+    list-style-position: inside;
+}
