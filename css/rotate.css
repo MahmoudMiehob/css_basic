@@ -1,0 +1,21 @@
+div{
+    background-color: red;
+    color: blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+    transition-duration: 2s;
+
+}
+
+
+div:hover{
+    transform: rotate(360deg);
+    transform: rotate(-360deg);
+}
