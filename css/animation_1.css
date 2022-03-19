@@ -1,0 +1,44 @@
+div{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+    animation-name: change-color;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+
+
+}
+
+
+@keyframes change-color {
+    0%{
+        background-color: red;
+    }
+    33%{
+        background-color: black;
+        transform: rotate(180deg);
+    }
+    66%{
+        transform: rotate(360deg);
+        background-color: red;
+    }
+    86%{
+        transform: rotate(360deg);
+        transform: translate(100%);
+        background-color: blue;
+    }
+    100%{
+        background-color: red;
+        transform: translate(0%);
+
+    }
+
+}
