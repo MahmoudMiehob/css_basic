@@ -1,0 +1,23 @@
+div{
+    background-color: red;
+    color: blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+    /* transform: scaleX(1.5);
+    transform: scaleY(1.5);
+    transform: scale(1.5,1.5); */
+    transition-duration: 2s;
+    transform: scale(-1);
+}
+
+
+div:hover{
+    transform: scale(1.5);
+}
